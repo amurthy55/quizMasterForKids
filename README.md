@@ -14,27 +14,24 @@ A complete voice-based interactive science quiz system for children aged 6-10, r
 
 ## Quick Setup
 
-1. **Run setup script:**
+1. Clone and setup:
 ```bash
-chmod +x setup.sh
+git clone https://github.com/amurthy55/quizMasterForKids.git
+cd quizMasterForKids
 ./setup.sh
 ```
 
-2. **Set OpenAI API key:**
+2. Download Vosk model:
 ```bash
-export OPENAI_API_KEY='your-openai-api-key-here'
+wget https://alphacephei.com/vosk/models/vosk-model-small-en-us-0.15.zip
+unzip vosk-model-small-en-us-0.15.zip
 ```
 
 3. Run the quiz master:
-
-**OpenAI Version (requires API key):**
 ```bash
-export OPENAI_API_KEY='your-openai-api-key-here'
-python3 voice_quiz_master.py
-```
-
-**JSON Version (no API costs):**
-```bash
+./run_quiz.sh
+# Or manually:
+source quiz_master_env/bin/activate
 python3 voice_quiz_master_json.py
 ```
 
