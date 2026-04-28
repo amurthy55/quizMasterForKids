@@ -1,0 +1,75 @@
+{
+  "topic": "Maths",
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is 5 plus 3?",
+      "answer": "8",
+      "hints": ["It's less than 10", "Count on your fingers: 5, 6, 7, 8"],
+      "explanation": "5 + 3 = 8. You can count up from 5: 6, 7, 8."
+    },
+    {
+      "id": 2,
+      "question": "What is 10 minus 4?",
+      "answer": "6",
+      "hints": ["It's more than 5", "Count backwards: 10, 9, 8, 7, 6"],
+      "explanation": "10 - 4 = 6. Taking 4 away from 10 leaves 6."
+    },
+    {
+      "id": 3,
+      "question": "What is 2 times 4?",
+      "answer": "8",
+      "hints": ["It's the same as 4 plus 4", "Count by 2s: 2, 4, 6, 8"],
+      "explanation": "2 × 4 = 8. Two groups of four make eight."
+    },
+    {
+      "id": 4,
+      "question": "What is 12 divided by 3?",
+      "answer": "4",
+      "hints": ["How many 3s make 12?", "3, 6, 9, 12"],
+      "explanation": "12 ÷ 3 = 4. Three goes into twelve four times."
+    },
+    {
+      "id": 5,
+      "question": "What is 7 plus 6?",
+      "answer": "13",
+      "hints": ["It's more than 10", "7 + 3 = 10, then add 3 more"],
+      "explanation": "7 + 6 = 13. You can make 10 first, then add 3 more."
+    },
+    {
+      "id": 6,
+      "question": "What is 15 minus 7?",
+      "answer": "8",
+      "hints": ["It's less than 10", "15 - 5 = 10, then take 2 more"],
+      "explanation": "15 - 7 = 8. Take away 5 to make 10, then take 2 more."
+    },
+    {
+      "id": 7,
+      "question": "What is 3 times 3?",
+      "answer": "9",
+      "hints": ["It's a single digit", "3 + 3 + 3"],
+      "explanation": "3 × 3 = 9. Three groups of three make nine."
+    },
+    {
+      "id": 8,
+      "question": "What is 20 divided by 4?",
+      "answer": "5",
+      "hints": ["How many 4s make 20?", "4, 8, 12, 16, 20"],
+      "explanation": "20 ÷ 4 = 5. Four goes into twenty five times."
+    },
+    {
+      "id": 9,
+      "question": "What is 8 plus 9?",
+      "answer": "17",
+      "hints": ["It's more than 15", "8 + 2 = 10, then add 7 more"],
+      "explanation": "8 + 9 = 17. You can make 10 first, then add 7 more."
+    },
+    {
+      "id": 10,
+      "question": "What is 25 minus 8?",
+      "answer": "17",
+      "hints": ["It's more than 15", "25 - 5 = 20, then take 3 more"],
+      "explanation": "25 - 8 = 17. Take away 5 to make 20, then take 3 more."
+    }
+  ]
+}

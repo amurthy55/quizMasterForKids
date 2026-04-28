@@ -1,0 +1,75 @@
+{
+  "topic": "Spelling Bee",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Spell the word: beautiful",
+      "answer": "beautiful",
+      "hints": ["It starts with B", "It has 9 letters"],
+      "explanation": "Beautiful means very pretty or attractive."
+    },
+    {
+      "id": 2,
+      "question": "Spell the word: science",
+      "answer": "science",
+      "hints": ["It starts with S", "It has 7 letters"],
+      "explanation": "Science is the study of the natural world."
+    },
+    {
+      "id": 3,
+      "question": "Spell the word: dinosaur",
+      "answer": "dinosaur",
+      "hints": ["It starts with D", "It has 8 letters"],
+      "explanation": "Dinosaurs were giant reptiles that lived millions of years ago."
+    },
+    {
+      "id": 4,
+      "question": "Spell the word: elephant",
+      "answer": "elephant",
+      "hints": ["It starts with E", "It has 8 letters"],
+      "explanation": "Elephant is the largest land animal with a trunk."
+    },
+    {
+      "id": 5,
+      "question": "Spell the word: rainbow",
+      "answer": "rainbow",
+      "hints": ["It starts with R", "It has 7 letters"],
+      "explanation": "Rainbow is a colorful arc in the sky after rain."
+    },
+    {
+      "id": 6,
+      "question": "Spell the word: butterfly",
+      "answer": "butterfly",
+      "hints": ["It starts with B", "It has 9 letters"],
+      "explanation": "Butterfly is an insect with colorful wings."
+    },
+    {
+      "id": 7,
+      "question": "Spell the word: computer",
+      "answer": "computer",
+      "hints": ["It starts with C", "It has 8 letters"],
+      "explanation": "Computer is an electronic device for processing information."
+    },
+    {
+      "id": 8,
+      "question": "Spell the word: chocolate",
+      "answer": "chocolate",
+      "hints": ["It starts with C", "It has 9 letters"],
+      "explanation": "Chocolate is a sweet treat made from cocoa."
+    },
+    {
+      "id": 9,
+      "question": "Spell the word: adventure",
+      "answer": "adventure",
+      "hints": ["It starts with A", "It has 9 letters"],
+      "explanation": "Adventure is an exciting or unusual experience."
+    },
+    {
+      "id": 10,
+      "question": "Spell the word: universe",
+      "answer": "universe",
+      "hints": ["It starts with U", "It has 8 letters"],
+      "explanation": "Universe is all of space and everything in it."
+    }
+  ]
+}

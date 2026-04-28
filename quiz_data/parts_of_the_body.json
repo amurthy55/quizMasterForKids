@@ -1,0 +1,75 @@
+{
+  "topic": "Parts of the Body",
+  "questions": [
+    {
+      "id": 1,
+      "question": "What organ pumps blood throughout your body?",
+      "answer": "heart",
+      "hints": ["It's in your chest", "It goes beat beat beat"],
+      "explanation": "The heart is a muscle that pumps blood to all parts of your body."
+    },
+    {
+      "id": 2,
+      "question": "What do you use to breathe?",
+      "answer": "lungs",
+      "hints": ["You have two of them", "They're in your chest"],
+      "explanation": "Lungs help you breathe in oxygen and breathe out carbon dioxide."
+    },
+    {
+      "id": 3,
+      "question": "What organ helps you think?",
+      "answer": "brain",
+      "hints": ["It's in your head", "It controls your body"],
+      "explanation": "The brain is the control center of your nervous system."
+    },
+    {
+      "id": 4,
+      "question": "What do you use to see?",
+      "answer": "eyes",
+      "hints": ["You have two of them", "They're in your face"],
+      "explanation": "Eyes are organs that allow you to see light and colors."
+    },
+    {
+      "id": 5,
+      "question": "What do you use to hear?",
+      "answer": "ears",
+      "hints": ["You have two of them", "They're on the sides of your head"],
+      "explanation": "Ears help you hear sounds and keep your balance."
+    },
+    {
+      "id": 6,
+      "question": "What organ helps you digest food?",
+      "answer": "stomach",
+      "hints": ["It's in your belly", "It growls when you're hungry"],
+      "explanation": "The stomach breaks down food and turns it into energy."
+    },
+    {
+      "id": 7,
+      "question": "What do you use to smell?",
+      "answer": "nose",
+      "hints": ["It's in the middle of your face", "It helps you breathe too"],
+      "explanation": "The nose helps you smell different scents and breathe air."
+    },
+    {
+      "id": 8,
+      "question": "What do you use to taste food?",
+      "answer": "tongue",
+      "hints": ["It's in your mouth", "It helps you talk"],
+      "explanation": "The tongue helps you taste different flavors and helps you speak."
+    },
+    {
+      "id": 9,
+      "question": "What protects your brain?",
+      "answer": "skull",
+      "hints": ["It's a bone", "It's around your head"],
+      "explanation": "The skull is a hard bone that protects your brain."
+    },
+    {
+      "id": 10,
+      "question": "What carries blood around your body?",
+      "answer": "blood vessels",
+      "hints": ["They're like tubes", "They're throughout your body"],
+      "explanation": "Blood vessels are tubes that carry blood to all parts of your body."
+    }
+  ]
+}

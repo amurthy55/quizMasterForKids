@@ -1,0 +1,75 @@
+{
+  "topic": "Planets",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which planet is closest to the Sun?",
+      "answer": "Mercury",
+      "hints": ["It's the smallest planet", "It's named after a Roman messenger god"],
+      "explanation": "Mercury is the closest planet to the Sun and the smallest planet in our solar system."
+    },
+    {
+      "id": 2,
+      "question": "Which planet is known as the Red Planet?",
+      "answer": "Mars",
+      "hints": ["It's named after a Roman god of war", "It has two small moons"],
+      "explanation": "Mars appears red because of iron oxide (rust) on its surface."
+    },
+    {
+      "id": 3,
+      "question": "Which planet is the largest in our solar system?",
+      "answer": "Jupiter",
+      "hints": ["It's a gas giant", "It has a Great Red Spot"],
+      "explanation": "Jupiter is so large that all other planets could fit inside it."
+    },
+    {
+      "id": 4,
+      "question": "Which planet has the most rings?",
+      "answer": "Saturn",
+      "hints": ["It's a gas giant", "It's known for its beautiful ring system"],
+      "explanation": "Saturn has thousands of rings made of ice and rock particles."
+    },
+    {
+      "id": 5,
+      "question": "Which planet is farthest from the Sun?",
+      "answer": "Neptune",
+      "hints": ["It's a blue ice giant", "It's named after the Roman god of the sea"],
+      "explanation": "Neptune is the eighth and farthest known planet from the Sun."
+    },
+    {
+      "id": 6,
+      "question": "Which planet is called Earth's twin?",
+      "answer": "Venus",
+      "hints": ["It's the hottest planet", "It's similar in size to Earth"],
+      "explanation": "Venus is similar in size to Earth but has a toxic atmosphere and extreme heat."
+    },
+    {
+      "id": 7,
+      "question": "Which planet rotates on its side?",
+      "answer": "Uranus",
+      "hints": ["It's an ice giant", "It has faint rings"],
+      "explanation": "Uranus is tilted at about 98 degrees, making it appear to rotate on its side."
+    },
+    {
+      "id": 8,
+      "question": "How many planets are in our solar system?",
+      "answer": "Eight",
+      "hints": ["Pluto is no longer counted", "It's a single digit number"],
+      "explanation": "There are eight planets: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune."
+    },
+    {
+      "id": 9,
+      "question": "Which planet do we live on?",
+      "answer": "Earth",
+      "hints": ["It's the third planet from the Sun", "It's the only known planet with life"],
+      "explanation": "Earth is our home planet and the only known planet with life."
+    },
+    {
+      "id": 10,
+      "question": "Which planet has the Great Red Spot?",
+      "answer": "Jupiter",
+      "hints": ["It's the largest planet", "It's a giant storm"],
+      "explanation": "The Great Red Spot is a huge storm on Jupiter that has been raging for hundreds of years."
+    }
+  ]
+}
